@@ -7,7 +7,9 @@ class Solution:
         #     permutation_difference+=abs(indies_s[char]-indies_t[char])
         # return permutation_difference
         sum=0
-        for i in s:
-            sum+=abs(s.index(i)-t.index(i))
+        i=0
+        while(i<len(s)):
+            sum+=abs(s.index(s[i])-t.index(s[i]))
+            i+=1
 
         return sum
