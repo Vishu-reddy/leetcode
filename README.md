@@ -75,7 +75,13 @@ leetcode and other platforms codes
 | [0015-3sum](https://github.com/Vishu-reddy/leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Vishu-reddy/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vishu-reddy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/Vishu-reddy/leetcode/tree/master/0633-sum-of-square-numbers) |
 # Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vishu-reddy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/Vishu-reddy/leetcode/tree/master/0633-sum-of-square-numbers) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Vishu-reddy/leetcode/tree/master/0633-sum-of-square-numbers) |
