@@ -27,6 +27,7 @@ leetcode and other platforms codes
 | [0049-group-anagrams](https://github.com/Vishu-reddy/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Vishu-reddy/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vishu-reddy/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Vishu-reddy/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 # Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ leetcode and other platforms codes
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vishu-reddy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Vishu-reddy/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Vishu-reddy/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Vishu-reddy/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -61,6 +63,7 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vishu-reddy/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Vishu-reddy/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 # Matrix
 |  |
 | ------- |
@@ -81,7 +84,16 @@ leetcode and other platforms codes
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vishu-reddy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/Vishu-reddy/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Vishu-reddy/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 # Math
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Vishu-reddy/leetcode/tree/master/0633-sum-of-square-numbers) |
+# Greedy
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Vishu-reddy/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+# Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Vishu-reddy/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
