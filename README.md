@@ -31,6 +31,7 @@ leetcode and other platforms codes
 # Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vishu-reddy/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vishu-reddy/leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Vishu-reddy/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Vishu-reddy/leetcode/tree/master/0049-group-anagrams) |
@@ -75,6 +76,7 @@ leetcode and other platforms codes
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vishu-reddy/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vishu-reddy/leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Vishu-reddy/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vishu-reddy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -92,6 +94,7 @@ leetcode and other platforms codes
 # Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vishu-reddy/leetcode/tree/master/0011-container-with-most-water) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vishu-reddy/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 # Sliding Window
 |  |
