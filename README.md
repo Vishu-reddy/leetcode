@@ -114,3 +114,23 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vishu-reddy/leetcode/tree/master/0042-trapping-rain-water) |
+# Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Vishu-reddy/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+# Depth-First Search
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Vishu-reddy/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Vishu-reddy/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Vishu-reddy/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+# Binary Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Vishu-reddy/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
