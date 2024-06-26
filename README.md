@@ -36,6 +36,7 @@ leetcode and other platforms codes
 | [0036-valid-sudoku](https://github.com/Vishu-reddy/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Vishu-reddy/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Vishu-reddy/leetcode/tree/master/0049-group-anagrams) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Vishu-reddy/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vishu-reddy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Vishu-reddy/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -44,6 +45,7 @@ leetcode and other platforms codes
 # Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Vishu-reddy/leetcode/tree/master/0347-top-k-frequent-elements) |
 # Heap (Priority Queue)
 |  |
@@ -117,6 +119,7 @@ leetcode and other platforms codes
 # Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishu-reddy/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 # Depth-First Search
@@ -130,10 +133,12 @@ leetcode and other platforms codes
 # Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishu-reddy/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishu-reddy/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
