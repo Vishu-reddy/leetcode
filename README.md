@@ -118,6 +118,7 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishu-reddy/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -130,7 +131,9 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishu-reddy/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishu-reddy/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
