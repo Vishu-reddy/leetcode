@@ -142,3 +142,18 @@ leetcode and other platforms codes
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vishu-reddy/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+<!---LeetCode Topics End-->
