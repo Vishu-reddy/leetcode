@@ -176,6 +176,7 @@ leetcode and other platforms codes
 | [0027-remove-element](https://github.com/Vishu-reddy/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishu-reddy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vishu-reddy/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -205,4 +206,9 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishu-reddy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
