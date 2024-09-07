@@ -168,4 +168,12 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vishu-reddy/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
