@@ -1,5 +1,8 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
+        if(nums.length<= 2){
+            return nums.length;
+        }
         int l=0;
         int r=0;
         while(r<nums.length){
