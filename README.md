@@ -160,6 +160,7 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Vishu-reddy/leetcode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2645-pass-the-pillow](https://github.com/Vishu-reddy/leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -183,6 +184,7 @@ leetcode and other platforms codes
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vishu-reddy/leetcode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Vishu-reddy/leetcode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2411-spiral-matrix-iv](https://github.com/Vishu-reddy/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Two Pointers
 |  |
@@ -195,6 +197,7 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,4 +240,12 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Vishu-reddy/leetcode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
