@@ -4,6 +4,10 @@ class Solution {
         int res=0;
         for(int i=0;i<nums.length-1;i++){
             far=Math.max(far,i+nums[i]);
+            if (far >= nums.length - 1) {
+                ++res;
+                break;
+            }
             if(i==end){
                 res++;
                 end=far;
