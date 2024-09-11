@@ -163,6 +163,7 @@ leetcode and other platforms codes
 | [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2383-add-two-integers](https://github.com/Vishu-reddy/leetcode/tree/master/2383-add-two-integers) |
 | [2645-pass-the-pillow](https://github.com/Vishu-reddy/leetcode/tree/master/2645-pass-the-pillow) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Vishu-reddy/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |
 | ------- |
