@@ -17,6 +17,7 @@ class Solution {
             binary[id++] = num % 2;
             num = num / 2;
         }
+        //it is binary in reverse but no problem in this problem 
         return binary;
     }
 }
