@@ -182,6 +182,7 @@ leetcode and other platforms codes
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vishu-reddy/leetcode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/Vishu-reddy/leetcode/tree/master/0274-h-index) |
 | [2411-spiral-matrix-iv](https://github.com/Vishu-reddy/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Two Pointers
 |  |
@@ -202,6 +203,7 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Vishu-reddy/leetcode/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -231,4 +233,8 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vishu-reddy/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Vishu-reddy/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
