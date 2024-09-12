@@ -161,6 +161,7 @@ leetcode and other platforms codes
 | ------- |
 | [0189-rotate-array](https://github.com/Vishu-reddy/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1013-fibonacci-number](https://github.com/Vishu-reddy/leetcode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/Vishu-reddy/leetcode/tree/master/2383-add-two-integers) |
 | [2645-pass-the-pillow](https://github.com/Vishu-reddy/leetcode/tree/master/2645-pass-the-pillow) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Vishu-reddy/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -224,6 +225,7 @@ leetcode and other platforms codes
 | [0055-jump-game](https://github.com/Vishu-reddy/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishu-reddy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1013-fibonacci-number](https://github.com/Vishu-reddy/leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -260,4 +262,12 @@ leetcode and other platforms codes
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vishu-reddy/leetcode/tree/master/0125-valid-palindrome) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vishu-reddy/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Vishu-reddy/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
