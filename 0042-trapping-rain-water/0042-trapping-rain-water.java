@@ -58,6 +58,9 @@
 // }
 class Solution {
     public int trap(int[] height) {
+        if(height.length==0){
+            return 0;
+        }
         int l=0;
         int r=height.length-1;
         int ml=height[l];
