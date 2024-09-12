@@ -195,6 +195,7 @@ leetcode and other platforms codes
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vishu-reddy/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vishu-reddy/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Vishu-reddy/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Vishu-reddy/leetcode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -257,5 +258,6 @@ leetcode and other platforms codes
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vishu-reddy/leetcode/tree/master/0125-valid-palindrome) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
