@@ -213,6 +213,7 @@ leetcode and other platforms codes
 | ------- |
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vishu-reddy/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
 |  |
@@ -259,6 +260,7 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vishu-reddy/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vishu-reddy/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vishu-reddy/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vishu-reddy/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -278,6 +280,7 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vishu-reddy/leetcode/tree/master/0125-valid-palindrome) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vishu-reddy/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Recursion
 |  |
@@ -300,6 +303,7 @@ leetcode and other platforms codes
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vishu-reddy/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vishu-reddy/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vishu-reddy/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Brainteaser
 |  |
 | ------- |
