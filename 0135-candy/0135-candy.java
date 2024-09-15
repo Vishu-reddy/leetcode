@@ -2,9 +2,7 @@ class Solution {
     public int candy(int[] rating) {
         int n=rating.length;
         int[] candies=new int[n];
-        for(int i=0;i<rating.length;i++){
-            candies[i]=1;
-        }
+        Arrays.fill(candies,1);
         for(int i=1;i<n;i++){
             if(rating[i]>rating[i-1]){
                 candies[i]=candies[i-1]+1;
