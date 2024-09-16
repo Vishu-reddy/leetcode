@@ -161,6 +161,7 @@ leetcode and other platforms codes
 | ------- |
 | [0189-rotate-array](https://github.com/Vishu-reddy/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0539-minimum-time-difference](https://github.com/Vishu-reddy/leetcode/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/Vishu-reddy/leetcode/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/Vishu-reddy/leetcode/tree/master/2383-add-two-integers) |
 | [2645-pass-the-pillow](https://github.com/Vishu-reddy/leetcode/tree/master/2645-pass-the-pillow) |
@@ -194,6 +195,7 @@ leetcode and other platforms codes
 | [0238-product-of-array-except-self](https://github.com/Vishu-reddy/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Vishu-reddy/leetcode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0539-minimum-time-difference](https://github.com/Vishu-reddy/leetcode/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vishu-reddy/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vishu-reddy/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -226,6 +228,7 @@ leetcode and other platforms codes
 | ------- |
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Vishu-reddy/leetcode/tree/master/0274-h-index) |
+| [0539-minimum-time-difference](https://github.com/Vishu-reddy/leetcode/tree/master/0539-minimum-time-difference) |
 ## Counting
 |  |
 | ------- |
@@ -282,6 +285,7 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Vishu-reddy/leetcode/tree/master/0125-valid-palindrome) |
+| [0539-minimum-time-difference](https://github.com/Vishu-reddy/leetcode/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vishu-reddy/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Recursion
