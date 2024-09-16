@@ -290,6 +290,7 @@ leetcode and other platforms codes
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vishu-reddy/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vishu-reddy/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Vishu-reddy/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Vishu-reddy/leetcode/tree/master/0125-valid-palindrome) |
 | [0539-minimum-time-difference](https://github.com/Vishu-reddy/leetcode/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vishu-reddy/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -320,4 +321,8 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vishu-reddy/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vishu-reddy/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
