@@ -221,6 +221,7 @@ leetcode and other platforms codes
 | [0013-roman-to-integer](https://github.com/Vishu-reddy/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Vishu-reddy/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vishu-reddy/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
@@ -238,6 +239,7 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Vishu-reddy/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 |  |
@@ -295,6 +297,7 @@ leetcode and other platforms codes
 | [0125-valid-palindrome](https://github.com/Vishu-reddy/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vishu-reddy/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/Vishu-reddy/leetcode/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Vishu-reddy/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vishu-reddy/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Recursion
