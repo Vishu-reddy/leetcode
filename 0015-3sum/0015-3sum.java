@@ -32,3 +32,7 @@ class Solution {
         return res;
     }
 }
+// sort the array
+// in loop select the first element
+// in the second loop select other two elements using two sum approch or two sum II approch
+//if sum three is 0 add to res list
