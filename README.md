@@ -181,6 +181,7 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vishu-reddy/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Vishu-reddy/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vishu-reddy/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vishu-reddy/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Vishu-reddy/leetcode/tree/master/0042-trapping-rain-water) |
@@ -208,6 +209,7 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vishu-reddy/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Vishu-reddy/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vishu-reddy/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vishu-reddy/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Vishu-reddy/leetcode/tree/master/0042-trapping-rain-water) |
@@ -235,6 +237,7 @@ leetcode and other platforms codes
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vishu-reddy/leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Vishu-reddy/leetcode/tree/master/0274-h-index) |
 | [0539-minimum-time-difference](https://github.com/Vishu-reddy/leetcode/tree/master/0539-minimum-time-difference) |
