@@ -164,6 +164,7 @@ leetcode and other platforms codes
 | [0013-roman-to-integer](https://github.com/Vishu-reddy/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Vishu-reddy/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Vishu-reddy/leetcode/tree/master/0066-plus-one) |
+| [0149-max-points-on-a-line](https://github.com/Vishu-reddy/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vishu-reddy/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vishu-reddy/leetcode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishu-reddy/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -199,6 +200,7 @@ leetcode and other platforms codes
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Vishu-reddy/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Vishu-reddy/leetcode/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/Vishu-reddy/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vishu-reddy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vishu-reddy/leetcode/tree/master/0179-largest-number) |
@@ -232,6 +234,7 @@ leetcode and other platforms codes
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vishu-reddy/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vishu-reddy/leetcode/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/Vishu-reddy/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vishu-reddy/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -363,4 +366,8 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vishu-reddy/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Vishu-reddy/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
