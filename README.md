@@ -200,6 +200,7 @@ leetcode and other platforms codes
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Vishu-reddy/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Vishu-reddy/leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Vishu-reddy/leetcode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Vishu-reddy/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vishu-reddy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
@@ -292,6 +293,7 @@ leetcode and other platforms codes
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Vishu-reddy/leetcode/tree/master/0136-single-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vishu-reddy/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vishu-reddy/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
