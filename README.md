@@ -163,6 +163,7 @@ leetcode and other platforms codes
 | [0012-integer-to-roman](https://github.com/Vishu-reddy/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vishu-reddy/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vishu-reddy/leetcode/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/Vishu-reddy/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vishu-reddy/leetcode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishu-reddy/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
