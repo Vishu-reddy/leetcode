@@ -209,6 +209,7 @@ leetcode and other platforms codes
 | [0189-rotate-array](https://github.com/Vishu-reddy/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Vishu-reddy/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Vishu-reddy/leetcode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Vishu-reddy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/Vishu-reddy/leetcode/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vishu-reddy/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -230,6 +231,7 @@ leetcode and other platforms codes
 | [0151-reverse-words-in-a-string](https://github.com/Vishu-reddy/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vishu-reddy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Vishu-reddy/leetcode/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Vishu-reddy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Vishu-reddy/leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -238,6 +240,7 @@ leetcode and other platforms codes
 | [0013-roman-to-integer](https://github.com/Vishu-reddy/leetcode/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/Vishu-reddy/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Vishu-reddy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vishu-reddy/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vishu-reddy/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -254,6 +257,7 @@ leetcode and other platforms codes
 | [0169-majority-element](https://github.com/Vishu-reddy/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vishu-reddy/leetcode/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Vishu-reddy/leetcode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Vishu-reddy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/Vishu-reddy/leetcode/tree/master/0539-minimum-time-difference) |
 ## Counting
 |  |
@@ -368,6 +372,7 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vishu-reddy/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Vishu-reddy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
