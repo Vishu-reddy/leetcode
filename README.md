@@ -162,6 +162,7 @@ leetcode and other platforms codes
 | [0009-palindrome-number](https://github.com/Vishu-reddy/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Vishu-reddy/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vishu-reddy/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Vishu-reddy/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Vishu-reddy/leetcode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishu-reddy/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -190,6 +191,7 @@ leetcode and other platforms codes
 | [0045-jump-game-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vishu-reddy/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vishu-reddy/leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Vishu-reddy/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vishu-reddy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vishu-reddy/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
