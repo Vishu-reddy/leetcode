@@ -211,6 +211,7 @@ leetcode and other platforms codes
 | [0274-h-index](https://github.com/Vishu-reddy/leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishu-reddy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vishu-reddy/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0506-relative-ranks](https://github.com/Vishu-reddy/leetcode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Vishu-reddy/leetcode/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Vishu-reddy/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -258,6 +259,7 @@ leetcode and other platforms codes
 | [0179-largest-number](https://github.com/Vishu-reddy/leetcode/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Vishu-reddy/leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Vishu-reddy/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/Vishu-reddy/leetcode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Vishu-reddy/leetcode/tree/master/0539-minimum-time-difference) |
 ## Counting
 |  |
@@ -381,4 +383,8 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Vishu-reddy/leetcode/tree/master/0149-max-points-on-a-line) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Vishu-reddy/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
