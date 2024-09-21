@@ -152,6 +152,7 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vishu-reddy/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Vishu-reddy/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -371,6 +372,7 @@ leetcode and other platforms codes
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vishu-reddy/leetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Vishu-reddy/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Binary Search
 |  |
 | ------- |
