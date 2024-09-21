@@ -178,6 +178,7 @@ leetcode and other platforms codes
 ## Simulation
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Vishu-reddy/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vishu-reddy/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/Vishu-reddy/leetcode/tree/master/2645-pass-the-pillow) |
 ## Database
@@ -217,6 +218,7 @@ leetcode and other platforms codes
 | [1435-xor-queries-of-a-subarray](https://github.com/Vishu-reddy/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vishu-reddy/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Vishu-reddy/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vishu-reddy/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vishu-reddy/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Two Pointers
@@ -297,6 +299,7 @@ leetcode and other platforms codes
 ## Matrix
 |  |
 | ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Vishu-reddy/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vishu-reddy/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Bit Manipulation
 |  |
