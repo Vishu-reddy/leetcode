@@ -221,6 +221,7 @@ leetcode and other platforms codes
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vishu-reddy/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vishu-reddy/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vishu-reddy/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2737-row-with-maximum-ones](https://github.com/Vishu-reddy/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -301,6 +302,7 @@ leetcode and other platforms codes
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vishu-reddy/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vishu-reddy/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2737-row-with-maximum-ones](https://github.com/Vishu-reddy/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
