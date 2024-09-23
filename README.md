@@ -222,6 +222,7 @@ leetcode and other platforms codes
 | [2411-spiral-matrix-iv](https://github.com/Vishu-reddy/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vishu-reddy/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2737-row-with-maximum-ones](https://github.com/Vishu-reddy/leetcode/tree/master/2737-row-with-maximum-ones) |
+| [2755-extra-characters-in-a-string](https://github.com/Vishu-reddy/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -250,6 +251,7 @@ leetcode and other platforms codes
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vishu-reddy/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vishu-reddy/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/Vishu-reddy/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -283,6 +285,7 @@ leetcode and other platforms codes
 | [0241-different-ways-to-add-parentheses](https://github.com/Vishu-reddy/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/Vishu-reddy/leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Vishu-reddy/leetcode/tree/master/1013-fibonacci-number) |
+| [2755-extra-characters-in-a-string](https://github.com/Vishu-reddy/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -343,6 +346,7 @@ leetcode and other platforms codes
 | [0920-uncommon-words-from-two-sentences](https://github.com/Vishu-reddy/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vishu-reddy/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/Vishu-reddy/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -379,6 +383,7 @@ leetcode and other platforms codes
 | [0014-longest-common-prefix](https://github.com/Vishu-reddy/leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Vishu-reddy/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Vishu-reddy/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/Vishu-reddy/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
