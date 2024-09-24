@@ -223,6 +223,7 @@ leetcode and other platforms codes
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vishu-reddy/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2737-row-with-maximum-ones](https://github.com/Vishu-reddy/leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/Vishu-reddy/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishu-reddy/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -252,6 +253,7 @@ leetcode and other platforms codes
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vishu-reddy/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Vishu-reddy/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishu-reddy/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -347,6 +349,7 @@ leetcode and other platforms codes
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Vishu-reddy/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vishu-reddy/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Vishu-reddy/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishu-reddy/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Recursion
 |  |
 | ------- |
@@ -384,6 +387,7 @@ leetcode and other platforms codes
 | [0386-lexicographical-numbers](https://github.com/Vishu-reddy/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Vishu-reddy/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/Vishu-reddy/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vishu-reddy/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
